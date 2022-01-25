@@ -62,4 +62,6 @@ This is a sensible implementation, although some transitions could be added in t
 13. Breakroom timer expires
 14. User presses start button
 
-Seems pretty simple actually - could have slightly smarter logic eventually, but this looks good!
+Seems pretty simple actually - could have slightly smarter logic eventually, but this looks good! The below characterises the structure of the FSM, with initial and terminal states:
+
+![](MindBindJS-FSM.drawio.svg)
